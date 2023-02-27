@@ -18,7 +18,7 @@ const Header = ({ showFavorites }) => (
             <i className='fab fa-linkedin fa-lg header-icon' />
           </a>
           <a
-            href='https://github.com/pesto-students/lyrics-finder-deepakbhadoriya'
+            href='https://github.com/deepakbhadoriya/lyrics-finder'
             target='_blank'
             rel='noreferrer'
             data-bs-toggle='tooltip'
